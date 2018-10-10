@@ -1,2 +1,2 @@
 # no_name
-Game Design 2 - Game 1
+Game Tools 2 - Class 3
